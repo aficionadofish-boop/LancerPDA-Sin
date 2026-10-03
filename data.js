@@ -36,6 +36,22 @@ window.RECEIVER_DATA = {
    "validity": "VALID"
   },
   {
+   "id": "003",
+   "title": "Operation Lighthouse",
+   "type": "comms",
+   "style": "record",
+   "from": "Office of the Executive Officer",
+   "origin": "LOCAL",
+   "sent": "SY 51.02.09",
+   "received": "",
+   "lag": "",
+   "signal": 100,
+   "html": "<table><tbody><tr><td>Operation</td><td>LIGHTHOUSE</td></tr><tr><td>Assigned</td><td>Pathfinder Lance</td></tr><tr><td>Authority</td><td>The Proconsul, under the Charter of Expedition</td></tr></tbody></table>\n<h2>1. Situation</h2>\n<p>The Illéri has made contact with a derelict colony vessel: the seed ship PERSEPHONE, registry SRV-2891, identified by its transponder.</p>\n<p>The vessel is not inert. Its defences engage anything that approaches:</p>\n<ul><li>Long-range batteries, guided by <strong>targeting relays</strong>, keep the Illéri out of range.</li><li>Close-in flak covers the approach to the hull.</li><li>The defences are powered by the ship's <strong>reactor</strong>. The reactor also powers the fabrication plant that produces its defence units.</li></ul>\n<p>Enemy forces: autonomous defence units, numbers and types unknown. Expect them to be armed, and to be replaced while the reactor runs.</p>\n<h2>2. Mission</h2>\n<p>Breach the Persephone, disable its defences, and secure a sector for the Expedition.</p>\n<h2>3. Execution</h2>\n<ol><li>An unmanned tow barge carries the lance's drop pod in under jammers.</li><li>The drop pod breaches the outer hull into the defence sector.</li><li>The lance disables the targeting relays and shuts down the reactor, in either order.</li><li>The lance secures the sector and holds it for the Illéri.</li></ol>\n<p>With the relays down, the Illéri can close to fire-support range. With the reactor down, the fabrication plant stops producing defence units.</p>\n<h2>Objectives</h2>\n<ul><li><strong>Primary:</strong> disable the targeting relays and the reactor. Secure the sector.</li><li><strong>Secondary:</strong> shut the reactor down safely. Do not destroy it: a damaged reactor will leak radiation and melt down across the sector.</li><li><strong>Secondary:</strong> recover functional colony hardware where possible.</li></ul>\n<h2>4. Support</h2>\n<ul><li><strong>Vacuum warning:</strong> any breach will vent the compartment. Expect vacuum and loss of artificial gravity at and around the breach point.</li><li>When the relays are down, the Illéri closes in. One fire mission from the ship's guns is then available on request.</li><li>When the sector is secure, the Illéri sends reinforcements and repair crews.</li></ul>\n<h2>Rules of engagement</h2>\n<p>Under the Charter of Expedition:</p>\n<ul><li><strong>Art. 4:</strong> the vessel, its seed vaults and its cryogenic vaults are to be preserved.</li><li><strong>Art. 10:</strong> a machine intelligence that refuses the Expedition's authority is hostile.</li></ul>\n<h2>5. Command and signal</h2>\n<ul><li>Expect loss of communications after the breach.</li><li>Until contact is restored, the lance acts on its own authority, within these orders.</li><li>The Illéri will re-establish contact as soon as the defences are down.</li></ul>\n<p>— Executive Officer, UNS Illéri, by order of the Proconsul</p>",
+   "ref": "ILR/XO-OP-0051-01",
+   "footer": "READ AND ACKNOWLEDGE",
+   "stamp": "AUTHORIZED"
+  },
+  {
    "id": "004",
    "title": "Exercise DeGroot Keep",
    "type": "comms",
@@ -52,5 +68,22 @@ window.RECEIVER_DATA = {
    "stamp": "AUTHORIZED"
   }
  ],
- "reference": []
+ "reference": [
+  {
+   "title": "Ship Time",
+   "html": "<h2>Ship Years</h2>\n<p>Aboard the Illéri, dates are kept in <strong>Ship Years (SY)</strong>, counted from the day the ship left Union space.</p>\n<table><tbody><tr><td>SY 0</td><td>Departure, 4516U by Union reckoning</td></tr><tr><td>SY 51</td><td>The current year</td></tr></tbody></table>\n<p>Ship dates are written year, month, day: <strong>SY 41.07.22</strong> is the 22nd day of the 7th month of the 41st year.</p>\n<h2>Two clocks</h2>\n<p>At nearlight speed, time aboard runs slower than time at home. One year aboard is about <strong>ten years</strong> in Union space. While the Illéri holds station in a system, the two clocks run together.</p>\n<p>So since departure, about 51 years have passed aboard and about 500 in Union space.</p>\n<h2>The readouts</h2>\n<ul><li><strong>SHIP TIME:</strong> the ship's clock.</li><li><strong>UNION RT (EST):</strong> Navigation's estimate of the present date in Union space. It can't be checked until contact is restored.</li></ul>\n<h2>Dates on traffic</h2>\n<ul><li>Documents from Union carry Union dates, marked with a U: <strong>4516U</strong>.</li><li>Records made aboard carry ship dates: <strong>SY 41</strong>.</li><li><strong>LAG</strong> on a transmission is the time between sending and receipt.</li></ul>"
+  },
+  {
+   "title": "Ranks",
+   "html": "<h2>Officers</h2>\n<table><thead><tr><th>Rank</th><th>Duty</th></tr></thead><tbody><tr><td>Captain</td><td>Commands the ship. Whoever commands the Illéri is addressed as Captain.</td></tr><tr><td>Commander</td><td>Heads a division.</td></tr><tr><td>Lieutenant Commander</td><td>Deputy head of a division.</td></tr><tr><td>Lieutenant</td><td>Leads a section within a division.</td></tr><tr><td>Ensign</td><td>Junior officer. Heavy chassis pilots are commissioned Ensign.</td></tr></tbody></table>\n<p><strong>Captain Cain Verym</strong> also holds the title <strong>Proconsul</strong>, the authority granted to the commander of the Expedition under the Charter of Expedition.</p>\n<h2>Enlisted</h2>\n<table><thead><tr><th>Rank</th><th>Duty</th></tr></thead><tbody><tr><td>Chief of the Ship</td><td>The most senior enlisted crew member, and the link between the crew and the officers.</td></tr><tr><td>Chief Petty Officer</td><td>Senior hand of a section.</td></tr><tr><td>Petty Officer</td><td>Leads a work team.</td></tr><tr><td>Crewman</td><td>Qualified crew member.</td></tr><tr><td>Apprentice</td><td>Crew member in training.</td></tr></tbody></table>\n<h2>Seniority</h2>\n<p>Rank follows responsibility, and responsibility usually follows age. A higher rank is not a reward: it is a greater share of the Expedition's burden.</p>"
+  },
+  {
+   "title": "Divisions",
+   "html": "<h2>Command</h2>\n<p>The <strong>Captain</strong> commands the ship. The <strong>Executive Officer (XO)</strong> is second in command: runs the ship day to day, keeps discipline, sets the duty rosters, and assumes command if the Captain cannot.</p>\n<h2>Divisions</h2>\n<table><thead><tr><th>Division</th><th>Responsibility</th></tr></thead><tbody><tr><td>Engineering</td><td>Reactor, drive, life support, hull</td></tr><tr><td>Fabrication &amp; Stores</td><td>Printers, the pattern library, feedstock, rations</td></tr><tr><td>Navigation</td><td>Course, sensors, astrogation, charting</td></tr><tr><td>Weapons</td><td>Main batteries and point defence</td></tr><tr><td>Hangar</td><td>Mechs, powered suits, shuttles</td></tr><tr><td>Medical</td><td>Health, implants, fitness for duty</td></tr><tr><td>Mission Office</td><td>The Charter, contact protocols, the archives</td></tr></tbody></table>\n<h2>Hangar teams</h2>\n<ul><li><strong>Pathfinder Lance:</strong> heavy chassis pilots, for all operations off the ship.</li><li><strong>Work crew:</strong> heavy powered suits, for maintenance and repair on the ship.</li></ul>\n<h2>Perseverance</h2>\n<p><strong>Perseverance</strong> is the Illéri's NHP. It runs the ship's systems and works with every division: with the XO on duty rosters, and with Medical on fitness for duty. By regulation, it is cycled every five years.</p>"
+  },
+  {
+   "title": "Life Aboard",
+   "html": "<h2>Enlistment</h2>\n<p>Every person born aboard is enlisted in the Expedition from birth. Births are allotted by <strong>birth ticket</strong>.</p>\n<h2>Training</h2>\n<ol><li><strong>Aptitude assessment</strong> at age 14 decides what each crew member is best suited to learn.</li><li><strong>Primary training</strong>, five years in the assigned field. This is the crew member's main duty.</li><li><strong>Secondary training</strong> in a second duty. Crew serve in their secondary duty whenever their main duty is not required, so that no hand is idle and every post has a relief.</li></ol>\n<h2>Rations</h2>\n<p>Rations are allotted to working crew. Each week the crew votes on the flavouring of the next meal cycle. It is the only matter aboard that is put to a vote.</p>\n<h2>Fitness for duty</h2>\n<p>Perseverance and the Medical Division assess every crew member's fitness for duty.</p>\n<p>A crew member who can no longer perform their duties, through injury or age, is offered <strong>augmentation</strong>. Those who decline are euthanised under Medical Division protocol.</p>\n<h2>For pilots</h2>\n<p>The <strong>Subjectivity-Enhancement Suite</strong> is strongly recommended for all heavy chassis pilots. Fitting may be requested through the Medical Division.</p>"
+  }
+ ]
 };
